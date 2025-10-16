@@ -1,0 +1,143 @@
+{
+  "name": "AristoByte Theme Light",
+  "type": "light",
+  "colors": {
+    "editor.background": "#f5f5f8",
+    "editor.foreground": "#2c2c3f",
+    "editorLineNumber.foreground": "#8a8a9c",
+    "editorLineNumber.activeForeground": "#e95f32",
+    "editorCursor.foreground": "#e95f32",
+    "editor.selectionBackground": "#ffee2740",
+    "editor.inactiveSelectionBackground": "#ffee2740",
+    "editorWhitespace.foreground": "#dcdcdc",
+    "editorIndentGuide.background1": "#e0e0e8",
+    "editorIndentGuide.activeBackground1": "#e95f32",
+    "editorBracketMatch.background": "#ffeab040",
+    "editorBracketMatch.border": "#e95f32",
+    "editorGutter.background": "#f5f5f8",
+    "editorSuggestWidget.background": "#ffffff",
+    "editorSuggestWidget.border": "#dcdcdc",
+    "editorSuggestWidget.foreground": "#2c2c3f",
+    "editorSuggestWidget.selectedBackground": "#ffee2740",
+    "activityBar.background": "#ffffff",
+    "sideBar.background": "#f5f5f8",
+    "statusBar.background": "#ffffff",
+    "statusBar.foreground": "#2c2c3f",
+    "titleBar.activeBackground": "#ffffff",
+    "titleBar.activeForeground": "#2c2c3f",
+    "tab.activeBackground": "#f5f5f8",
+    "tab.inactiveBackground": "#ffffff",
+    "tab.activeBorder": "#e95f32",
+    "tab.border": "#dcdcdc",
+    "button.background": "#e95f32",
+    "button.hoverBackground": "#f18e35",
+    "dropdown.background": "#ffffff",
+    "scrollbarSlider.background": "#dcdcdc",
+    "scrollbarSlider.hoverBackground": "#c0c0c0",
+    "panel.background": "#ffffff",
+    "terminal.background": "#f5f5f8",
+    "terminal.foreground": "#2c2c3f",
+    "terminalCursor.background": "#e95f32",
+    "terminalCursor.foreground": "#e95f32",
+    "diffEditor.insertedTextBackground": "#4caf5020",
+    "diffEditor.removedTextBackground": "#e2312d20",
+    "gitDecoration.addedResourceForeground": "#4caf50",
+    "gitDecoration.modifiedResourceForeground": "#f18e35",
+    "gitDecoration.deletedResourceForeground": "#e2312d"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "comment.block.documentation"
+      ],
+      "settings": {
+        "foreground": "#8a8a9c",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#f18e35",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["variable", "variable.parameter", "entity.name.variable"],
+      "settings": {
+        "foreground": "#e95f32"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#f18e35"
+      }
+    },
+    {
+      "scope": ["string", "constant.other.symbol", "constant.character"],
+      "settings": {
+        "foreground": "#ffee27"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language.boolean"],
+      "settings": {
+        "foreground": "#fec800"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "support.class", "support.type"],
+      "settings": {
+        "foreground": "#e95f32"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.deprecated", "markup.error"],
+      "settings": {
+        "foreground": "#e2312d"
+      }
+    },
+    {
+      "scope": ["meta.brace", "punctuation.section.block"],
+      "settings": {
+        "foreground": "#2c2c3f"
+      }
+    },
+    {
+      "scope": ["punctuation.separator", "punctuation.operator"],
+      "settings": { "foreground": "#fec800" }
+    },
+    {
+      "scope": ["meta.decorator"],
+      "settings": { "foreground": "#f18e35" }
+    },
+    {
+      "scope": ["markup.heading", "markup.bold"],
+      "settings": { "foreground": "#e95f32", "fontStyle": "bold" }
+    }
+  ],
+  "semanticHighlighting": true,
+  "terminal.ansiBlack": "#f5f5f8",
+  "terminal.ansiRed": "#e2312d",
+  "terminal.ansiGreen": "#4caf50",
+  "terminal.ansiYellow": "#fec800",
+  "terminal.ansiBlue": "#2196f3",
+  "terminal.ansiMagenta": "#f18e35",
+  "terminal.ansiCyan": "#ffee27",
+  "terminal.ansiWhite": "#2c2c3f",
+  "terminal.ansiBrightBlack": "#8a8a9c",
+  "terminal.ansiBrightRed": "#ff5252",
+  "terminal.ansiBrightGreen": "#80ff80",
+  "terminal.ansiBrightYellow": "#fff176",
+  "terminal.ansiBrightBlue": "#64b5f6",
+  "terminal.ansiBrightMagenta": "#ffb74d",
+  "terminal.ansiBrightCyan": "#fff176",
+  "terminal.ansiBrightWhite": "#ffffff"
+}
