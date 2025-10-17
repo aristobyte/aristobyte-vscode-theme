@@ -1,13 +1,13 @@
 # 🚀 AristoByte Theme — VS Code
 
-Welcome to **AristoByte Theme**, a sleek, modern color theme for VS Code. Designed with clarity, focus, and developer productivity in mind, it provides **Dark and Light modes** with logo-inspired accent colors for a futuristic coding experience.
+Welcome to **AristoByte Theme**, a sleek, modern color theme for VS Code. Designed with clarity, focus, and developer productivity in mind, it provides **Dark mode only** with logo-inspired accent colors for a futuristic coding experience.
 
 ---
 
-## 🌑 Dark & 🌕 Light Modes
+## 🌑 Dark Mode & 🌕 No Light Mode (Don't use light themes!!!)
 
 - **AristoByte Dark** – Ideal for deep focus sessions and low-light environments.
-- **AristoByte Light** – Clean, bright, and easy on the eyes for daylight coding.
+- **AristoByte Light** – Totally Removed!!!
 
 Switch between modes via **Preferences → Color Theme** or `Ctrl+K Ctrl+T` / `Cmd+K Cmd+T` on Mac.
 
@@ -28,7 +28,7 @@ Switch between modes via **Preferences → Color Theme** or `Ctrl+K Ctrl+T` / `C
 
 1. Open **VS Code**.
 2. Go to **Preferences → Color Theme** or press `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on Mac).
-3. Select **AristoByte Dark** or **AristoByte Light**.
+3. Select **AristoByte Dark**
 4. Start coding — your syntax, UI accents, and terminal colors are automatically applied.
 
 ---
@@ -37,7 +37,7 @@ Switch between modes via **Preferences → Color Theme** or `Ctrl+K Ctrl+T` / `C
 
 - **Peek token colors:** Open any file and run `Developer: Inspect Editor Tokens and Scopes` to see how elements are highlighted.
 - **Smooth focus:** Semi-transparent selections and bracket matching help you follow code without distractions.
-- **Consistent experience:** Dark & Light modes maintain color harmony across UI and terminal.
+- **Consistent experience:** Dark (only) mode maintain color harmony across UI and terminal.
 
 ---
 

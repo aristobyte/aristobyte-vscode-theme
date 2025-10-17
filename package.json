@@ -38,11 +38,6 @@
         "label": "AristoByte Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/aristobyte-dark-color-theme.json"
-      },
-      {
-        "label": "AristoByte Light",
-        "uiTheme": "vs",
-        "path": "./themes/aristobyte-light-color-theme.json"
       }
     ]
   }

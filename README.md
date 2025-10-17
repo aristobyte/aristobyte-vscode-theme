@@ -1,14 +1,14 @@
 # 🚀 AristoByte VSCode Color Theme
 
 **AristoByte Theme** is a sleek, modern VS Code theme designed for developers who value **clarity, focus, and productivity**.  
-It includes **Dark and Light modes** with **logo-inspired accent colors** for a futuristic coding experience.
+It includes **Dark mode only** with **logo-inspired accent colors** for a futuristic coding experience.
 
 ---
 
 ## 🎨 Features
 
 - **Logo-inspired palette:** `#ffee27`, `#fec800`, `#f18e35`, `#e95f32`, `#e2312d` applied to keywords, variables, strings, numbers, and constants.
-- **Dark & Light modes:** Switch seamlessly between environments.
+- **Dark mode only:** Switch seamlessly between environments.
 - **Terminal integration:** ANSI colors match the theme for consistent development experience.
 - **High-contrast syntax:** Clear readability without straining your eyes.
 - **UI accents:** Branded tabs, buttons, panels, and scrollbars.
@@ -21,11 +21,13 @@ It includes **Dark and Light modes** with **logo-inspired accent colors** for a 
 
 ### Dark Mode
 
-![Dark Mode Preview](screenshots/dark-mode.png)
+![Dark Mode Preview](screenshots/dark-1.png)
+![Dark Mode Preview](screenshots/dark-2.png)
+![Dark Mode Preview](screenshots/dark-3.png)
 
 ### Light Mode
 
-![Light Mode Preview](screenshots/light-mode.png)
+Please do not ever use light modes :D
 
 ---
 
@@ -36,7 +38,7 @@ It includes **Dark and Light modes** with **logo-inspired accent colors** for a 
 1. Open VS Code → Extensions tab.
 2. Search for **AristoByte Theme**.
 3. Click **Install**.
-4. Select your preferred mode: Dark or Light.
+4. Select your preferred mode: currently Dark only.
 
 **Manual Installation:**
 
